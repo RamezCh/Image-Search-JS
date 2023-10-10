@@ -8,13 +8,12 @@ To get started with this application, you'll need to obtain an API access key fr
 
 Visit the Unsplash Developers website and create a developer account if you don't have one.
 
-Once you're logged in, create a new application to get your API access keys. You will receive a client_id and a client_secret.
+Once you're logged in, create a new application to get your API access keys. You will receive a client_id.
 
-Open the index.html file and replace the placeholder yourAccessKey and yourSecretKey with the actual keys you obtained from Unsplash.
+Open the index.html file and replace the placeholder yourAccessKey with the actual keys you obtained from Unsplash.
 
 ```javascript
 const yourAccessKey = "YOUR_UNSPLASH_ACCESS_KEY";
-const yourSecretKey = "YOUR_UNSPLASH_SECRET_KEY";
 ```
 
 ## How to Use
