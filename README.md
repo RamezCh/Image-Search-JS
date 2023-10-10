@@ -29,7 +29,7 @@ As you scroll down, you can click the "Show More" button to load additional imag
 ## Application Structure
 index.html: The main HTML file that contains the user interface elements.
 
-script.js: The JavaScript file that handles the logic for searching and displaying images. It makes use of the Unsplash API to fetch image data.
+index.js: The JavaScript file that handles the logic for searching and displaying images. It makes use of the Unsplash API to fetch image data.
 
 style.css: The CSS file that provides styling for the application's user interface.
 
